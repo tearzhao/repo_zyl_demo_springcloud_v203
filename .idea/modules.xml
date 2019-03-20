@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap10-config/chap10-config.iml" filepath="$PROJECT_DIR$/chap10-config/chap10-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10-config/config-client/config-client.iml" filepath="$PROJECT_DIR$/chap10-config/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10-config/config-server/config-server.iml" filepath="$PROJECT_DIR$/chap10-config/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>

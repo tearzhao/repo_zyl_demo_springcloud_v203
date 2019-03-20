@@ -3,4 +3,14 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chap10-config/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chap10-config/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chap10-config/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chap10-config/pom.xml" />
+      </list>
+    </option>
+  </component>
 </project>

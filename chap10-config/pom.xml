@@ -6,7 +6,8 @@
     <groupId>com.cralor</groupId>
     <artifactId>chap10-config</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <!--<packaging>jar</packaging>-->
+    <packaging>pom</packaging>
 
     <name>chap10-config</name>
     <description>Demo project for Spring Boot</description>
@@ -14,7 +15,8 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.3.RELEASE</version>
+        <!--<version>2.0.3.RELEASE</version>-->
+        <version>2.0.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
