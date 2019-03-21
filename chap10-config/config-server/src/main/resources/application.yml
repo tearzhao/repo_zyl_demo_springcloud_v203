@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/cralor7/springcloud
+          uri: https://github.com/tearzhao/repo_zyl_demo_springcloud_v203.git # https://github.com/cralor7/springcloud
           search-paths: config-repo
          # username:
          # password:
