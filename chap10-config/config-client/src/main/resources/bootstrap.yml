@@ -15,7 +15,12 @@ spring:
       trace:
         enabled: true
       enabled: true
-
+  rabbitmq:
+    host: 10.88.1.4 # ${rabbitmq.host}
+    port: 5672
+    username: guest
+    password: guest
+    #virtual-host: ${rabbitmq.i5x.vhost}
 eureka:
   client:
     serviceUrl:
@@ -25,6 +30,12 @@ management:
   endpoints:
     web:
       exposure:
-        include: bus-refresh
+        include: bus-refresh # *
+  endpoint:
+    health:
+      show-details: always
 #  security:
 #    enabled: false
+#      expose: "*"
+#    refresh:
+#      enabled: true

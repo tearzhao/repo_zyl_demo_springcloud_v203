@@ -6,7 +6,8 @@
     <groupId>com.cralor</groupId>
     <artifactId>chap11-sleuth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <!--<packaging>jar</packaging>-->
+    <packaging>pom</packaging>
 
     <name>chap11-sleuth</name>
     <description>Demo project for Spring Boot</description>

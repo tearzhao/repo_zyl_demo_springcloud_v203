@@ -6,25 +6,105 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin-client" />
+        <module name="admin-client-another" />
+        <module name="admin-server" />
+        <module name="chap13-security" />
         <module name="config-client" />
         <module name="config-server" />
+        <module name="eureka-client" />
+        <module name="eureka-client (1)" />
+        <module name="eureka-client (2)" />
+        <module name="eureka-feign-client" />
+        <module name="eureka-feign-client (1)" />
+        <module name="eureka-monitor-client" />
+        <module name="eureka-monitor-client (1)" />
+        <module name="eureka-ribbon-client" />
+        <module name="eureka-ribbon-client (1)" />
+        <module name="eureka-ribbon-client (2)" />
         <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="eureka-zuul-client" />
+        <module name="gateway-service" />
+        <module name="service-auth" />
+        <module name="service-hi" />
+        <module name="springcloud_prepare" />
+        <module name="turbine-service" />
+        <module name="user-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="admin-client" target="1.8" />
+      <module name="admin-client-another" target="1.8" />
+      <module name="admin-server" target="1.8" />
       <module name="chap10-config" target="1.8" />
-      <module name="chap5-2-eureka" target="1.5" />
+      <module name="chap11-sleuth" target="1.8" />
+      <module name="chap12-admin" target="1.8" />
+      <module name="chap13-security" target="1.8" />
+      <module name="chap14-oauth2" target="1.8" />
+      <module name="chap5-2-eureka" target="1.8" />
+      <module name="chap5-5-eureka" target="1.8" />
+      <module name="chap6-3-ribbon" target="1.8" />
+      <module name="chap7-feign" target="1.8" />
+      <module name="chap8-hystrix" target="1.8" />
+      <module name="chap9-zuul" target="1.8" />
       <module name="config-client" target="1.8" />
       <module name="config-server" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client (1)" target="1.8" />
+      <module name="eureka-client (2)" target="1.8" />
+      <module name="eureka-feign-client" target="1.8" />
+      <module name="eureka-feign-client (1)" target="1.8" />
+      <module name="eureka-monitor-client" target="1.8" />
+      <module name="eureka-monitor-client (1)" target="1.8" />
+      <module name="eureka-ribbon-client" target="1.8" />
+      <module name="eureka-ribbon-client (1)" target="1.8" />
+      <module name="eureka-ribbon-client (2)" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-zuul-client" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="service-auth" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="springcloud_prepare" target="1.8" />
+      <module name="turbine-service" target="1.8" />
+      <module name="user-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-client-another" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
       <module name="chap10-config" options="-parameters" />
+      <module name="chap12-admin" options="-parameters" />
+      <module name="chap13-security" options="-parameters" />
+      <module name="chap7-feign" options="-parameters" />
+      <module name="chap8-hystrix" options="-parameters" />
       <module name="config-client" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-client (1)" options="-parameters" />
+      <module name="eureka-client (2)" options="-parameters" />
+      <module name="eureka-feign-client" options="-parameters" />
+      <module name="eureka-feign-client (1)" options="-parameters" />
+      <module name="eureka-monitor-client" options="-parameters" />
+      <module name="eureka-monitor-client (1)" options="-parameters" />
+      <module name="eureka-ribbon-client" options="-parameters" />
+      <module name="eureka-ribbon-client (1)" options="-parameters" />
+      <module name="eureka-ribbon-client (2)" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server (1)" options="-parameters" />
+      <module name="eureka-server (2)" options="-parameters" />
+      <module name="eureka-zuul-client" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="service-auth" options="-parameters" />
+      <module name="service-hi" options="-parameters" />
+      <module name="springcloud_prepare" options="-parameters" />
+      <module name="turbine-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
     </option>
   </component>
 </project>

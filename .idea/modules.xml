@@ -2,11 +2,43 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap12-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/chap12-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-admin/admin-client-another/admin-client-another.iml" filepath="$PROJECT_DIR$/chap12-admin/admin-client-another/admin-client-another.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-admin/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/chap12-admin/admin-server/admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap10-config/chap10-config.iml" filepath="$PROJECT_DIR$/chap10-config/chap10-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-sleuth/chap11-sleuth.iml" filepath="$PROJECT_DIR$/chap11-sleuth/chap11-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-admin/chap12-admin.iml" filepath="$PROJECT_DIR$/chap12-admin/chap12-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap13-security/chap13-security.iml" filepath="$PROJECT_DIR$/chap13-security/chap13-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-oauth2/chap14-oauth2.iml" filepath="$PROJECT_DIR$/chap14-oauth2/chap14-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5-2-eureka/chap5-2-eureka.iml" filepath="$PROJECT_DIR$/chap5-2-eureka/chap5-2-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5-5-eureka/chap5-5-eureka.iml" filepath="$PROJECT_DIR$/chap5-5-eureka/chap5-5-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap6-3-ribbon/chap6-3-ribbon.iml" filepath="$PROJECT_DIR$/chap6-3-ribbon/chap6-3-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap7-feign/chap7-feign.iml" filepath="$PROJECT_DIR$/chap7-feign/chap7-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap8-hystrix/chap8-hystrix.iml" filepath="$PROJECT_DIR$/chap8-hystrix/chap8-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap9-zuul/chap9-zuul.iml" filepath="$PROJECT_DIR$/chap9-zuul/chap9-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap10-config/config-client/config-client.iml" filepath="$PROJECT_DIR$/chap10-config/config-client/config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap10-config/config-server/config-server.iml" filepath="$PROJECT_DIR$/chap10-config/config-server/config-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5-2-eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/chap5-2-eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5-5-eureka/eureka-client/eureka-client (1).iml" filepath="$PROJECT_DIR$/chap5-5-eureka/eureka-client/eureka-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap6-3-ribbon/eureka-client/eureka-client (2).iml" filepath="$PROJECT_DIR$/chap6-3-ribbon/eureka-client/eureka-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap7-feign/eureka-feign-client/eureka-feign-client.iml" filepath="$PROJECT_DIR$/chap7-feign/eureka-feign-client/eureka-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap8-hystrix/eureka-feign-client/eureka-feign-client (1).iml" filepath="$PROJECT_DIR$/chap8-hystrix/eureka-feign-client/eureka-feign-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap8-hystrix/eureka-monitor-client/eureka-monitor-client.iml" filepath="$PROJECT_DIR$/chap8-hystrix/eureka-monitor-client/eureka-monitor-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap9-zuul/eureka-monitor-client/eureka-monitor-client (1).iml" filepath="$PROJECT_DIR$/chap9-zuul/eureka-monitor-client/eureka-monitor-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-sleuth/eureka-ribbon-client/eureka-ribbon-client.iml" filepath="$PROJECT_DIR$/chap11-sleuth/eureka-ribbon-client/eureka-ribbon-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap7-feign/eureka-ribbon-client/eureka-ribbon-client (1).iml" filepath="$PROJECT_DIR$/chap7-feign/eureka-ribbon-client/eureka-ribbon-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap9-zuul/eureka-ribbon-client/eureka-ribbon-client (2).iml" filepath="$PROJECT_DIR$/chap9-zuul/eureka-ribbon-client/eureka-ribbon-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-oauth2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chap14-oauth2/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5-2-eureka/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chap5-2-eureka/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap6-3-ribbon/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/chap6-3-ribbon/eureka-server/eureka-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap9-zuul/eureka-zuul-client/eureka-zuul-client.iml" filepath="$PROJECT_DIR$/chap9-zuul/eureka-zuul-client/eureka-zuul-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-sleuth/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/chap11-sleuth/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-oauth2/service-auth/service-auth.iml" filepath="$PROJECT_DIR$/chap14-oauth2/service-auth/service-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap14-oauth2/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/chap14-oauth2/service-hi/service-hi.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_prepare/springcloud_prepare.iml" filepath="$PROJECT_DIR$/springcloud_prepare/springcloud_prepare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap12-admin/turbine-service/turbine-service.iml" filepath="$PROJECT_DIR$/chap12-admin/turbine-service/turbine-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap11-sleuth/user-service/user-service.iml" filepath="$PROJECT_DIR$/chap11-sleuth/user-service/user-service.iml" />
     </modules>
   </component>
 </project>
