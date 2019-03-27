@@ -28,7 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/chap11-sleuth/eureka-ribbon-client/eureka-ribbon-client.iml" filepath="$PROJECT_DIR$/chap11-sleuth/eureka-ribbon-client/eureka-ribbon-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap7-feign/eureka-ribbon-client/eureka-ribbon-client (1).iml" filepath="$PROJECT_DIR$/chap7-feign/eureka-ribbon-client/eureka-ribbon-client (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chap9-zuul/eureka-ribbon-client/eureka-ribbon-client (2).iml" filepath="$PROJECT_DIR$/chap9-zuul/eureka-ribbon-client/eureka-ribbon-client (2).iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap14-oauth2/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chap14-oauth2/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chap10-config/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap5-2-eureka/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chap5-2-eureka/eureka-server/eureka-server (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/chap6-3-ribbon/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/chap6-3-ribbon/eureka-server/eureka-server (2).iml" />
       <module fileurl="file://$PROJECT_DIR$/chap9-zuul/eureka-zuul-client/eureka-zuul-client.iml" filepath="$PROJECT_DIR$/chap9-zuul/eureka-zuul-client/eureka-zuul-client.iml" />
